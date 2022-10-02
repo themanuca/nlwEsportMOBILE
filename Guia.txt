@@ -1,0 +1,7 @@
+- Dentro do arquivo "app.json", econtramos a linha "splash", responsavel pela imagem que inical de
+    de carregamento do APP. Trocar imagem de carregamento atual;
+
+- Lib instalada via EXPO, a fonte INTER, do google fonts;
+- Lib intalada via EXPO,  da React Navigation, a "safe area context", onde o app, ignora certas área
+    do celular, áreas essas que não são usual.
+- Lib instalda via EXPO, a LinearGradient

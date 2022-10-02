@@ -11,4 +11,32 @@ export const GAMES = [
     ads: "3",
     cover: require("../assets/games/game2.png"),
   },
+
+  {
+    id: "3",
+    name: "CS-GO",
+    ads: "2",
+    cover: require("../assets/games/game3.png"),
+  },
+
+  {
+    id: "4",
+    name: "Apex",
+    ads: "3",
+    cover: require("../assets/games/game5.png"),
+  },
+
+  {
+    id: "5",
+    name: "Fortinite",
+    ads: "3",
+    cover: require("../assets/games/game6.png"),
+  },
+
+  {
+    id: "6",
+    name: "World of Warcraft",
+    ads: "2",
+    cover: require("../assets/games/game7.png"),
+  },
 ];
