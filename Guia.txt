@@ -5,3 +5,8 @@
 - Lib intalada via EXPO,  da React Navigation, a "safe area context", onde o app, ignora certas área
     do celular, áreas essas que não são usual.
 - Lib instalda via EXPO, a LinearGradient
+
+- Usando comandos  "RNSO"  da extensão "R Components", cria uma função padrão de estilização;
+- Usando o comando "RNBC" da extensão "R Components", cria uma função padrão;
+
+- TouchableOpacity posso usar para toques na telas
